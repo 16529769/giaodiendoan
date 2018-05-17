@@ -16,5 +16,35 @@ namespace giaodiendoan
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuFlatButton2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuImageButton2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
